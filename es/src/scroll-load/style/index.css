@@ -1,0 +1,12 @@
+.dh-scroll-load {
+  position: relative;
+}
+.dh-scroll-load .dh-text-center {
+  text-align: center;
+}
+.dh-scroll-load .dh-py-4 {
+  padding: 16px 0;
+}
+.dh-scroll-load .dh-hidden {
+  display: none;
+}

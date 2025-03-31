@@ -1,0 +1,31 @@
+:root {
+  --dh-default: #172b4d;
+  --dh-primary: #5e72e4;
+  --dh-success: #2dce89;
+  --dh-info: #11cdef;
+  --dh-warning: #fb6340;
+  --dh-danger: #f5365c;
+  --dh-border-color: #dcdfe6;
+  --dh-bg-color: #fff;
+  --dh-text-color: #606266;
+  --dh-placeholder-color: #bfc3d6;
+  --dh-hover-color: #f2f2f2;
+  --dh-active-color: #f2f2f2;
+  --dh-icon-fill-color: #ccc;
+  --dh-shadow: rgba(0, 0, 0, 0.12);
+  --dh-primary-lighten: #677df8;
+  --dh-primary-lighten-1: #8897e9;
+  --dh-success-lighten: #3fe29b;
+  --dh-success-lighten-1: #74daae;
+  --dh-info-lighten: #30ddfc;
+  --dh-info-lighten-1: #84e4f5;
+  --dh-warning-lighten: #ff876c;
+  --dh-warning-lighten-1: #ffac9a;
+  --dh-danger-lighten: #ff6080;
+  --dh-danger-lighten-1: #fd8da3;
+  --dh-primary-darken: #3650df;
+  --dh-success-darken: #1cb472;
+  --dh-info-darken: #09b5d3;
+  --dh-warning-darken: #f0532f;
+  --dh-danger-darken: #e61c44;
+}
